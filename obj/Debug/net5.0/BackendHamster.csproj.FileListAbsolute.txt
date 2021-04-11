@@ -1,0 +1,15 @@
+C:\Users\bjorn\source\repos\HamsterTenta\BackendHamster\bin\Debug\net5.0\BackendHamster.deps.json
+C:\Users\bjorn\source\repos\HamsterTenta\BackendHamster\bin\Debug\net5.0\BackendHamster.runtimeconfig.json
+C:\Users\bjorn\source\repos\HamsterTenta\BackendHamster\bin\Debug\net5.0\BackendHamster.runtimeconfig.dev.json
+C:\Users\bjorn\source\repos\HamsterTenta\BackendHamster\bin\Debug\net5.0\BackendHamster.dll
+C:\Users\bjorn\source\repos\HamsterTenta\BackendHamster\bin\Debug\net5.0\ref\BackendHamster.dll
+C:\Users\bjorn\source\repos\HamsterTenta\BackendHamster\bin\Debug\net5.0\BackendHamster.pdb
+C:\Users\bjorn\source\repos\HamsterTenta\BackendHamster\obj\Debug\net5.0\BackendHamster.csprojAssemblyReference.cache
+C:\Users\bjorn\source\repos\HamsterTenta\BackendHamster\obj\Debug\net5.0\BackendHamster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bjorn\source\repos\HamsterTenta\BackendHamster\obj\Debug\net5.0\BackendHamster.AssemblyInfoInputs.cache
+C:\Users\bjorn\source\repos\HamsterTenta\BackendHamster\obj\Debug\net5.0\BackendHamster.AssemblyInfo.cs
+C:\Users\bjorn\source\repos\HamsterTenta\BackendHamster\obj\Debug\net5.0\BackendHamster.csproj.CoreCompileInputs.cache
+C:\Users\bjorn\source\repos\HamsterTenta\BackendHamster\obj\Debug\net5.0\BackendHamster.dll
+C:\Users\bjorn\source\repos\HamsterTenta\BackendHamster\obj\Debug\net5.0\ref\BackendHamster.dll
+C:\Users\bjorn\source\repos\HamsterTenta\BackendHamster\obj\Debug\net5.0\BackendHamster.pdb
+C:\Users\bjorn\source\repos\HamsterTenta\BackendHamster\obj\Debug\net5.0\BackendHamster.genruntimeconfig.cache
